@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="send">Send</string>
+    <string name="app_name">Chat</string>
+    <string name="username">Inserisci l username</string>
+    <string name="pass">Password</string>
+    <string name="utente">Utente a cui connettersi</string>
+
+</resources>
